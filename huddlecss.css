@@ -1,0 +1,52 @@
+body{
+	margin: 0px
+}
+
+.logo-container{
+	padding: 30px
+	
+}
+.image-container{
+	display: flex;
+	justify-content: space-between;
+	padding: 30px;
+	color:white
+}
+
+.text-container{
+
+	width: 600px
+}
+
+h1{
+	font-size: 50px
+}
+
+button{
+	border-radius:40%;
+	border: none;
+	height: 50px;
+	width: 200px;
+}
+
+.social-media{
+didplay: flex;
+justify-content: end;
+  	padding: 20px;
+  	font-size: 30px;
+  	width: 50px;
+  	text-align: center;
+  	text-decoration: none;
+  	margin: 5px 2px;
+}
+
+
+.facebook {
+  background: #3B5998;
+  color: white
+}
+
+.twitter {
+  background: #55ACEE;
+  color: white
+}
